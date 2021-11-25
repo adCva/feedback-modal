@@ -1,3 +1,3 @@
 # Simple feedback modal
 
-Response in the console as an onbject.
+Response in the console as an object.
